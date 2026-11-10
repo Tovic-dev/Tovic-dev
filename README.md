@@ -12,7 +12,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tools-dark.svg"><img src="./cards/tools-light.svg" width="100%" alt="Design and engineering tools"></picture>
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,blender&theme=dark"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,blender&theme=light" height="38" alt="React, Next.js, TypeScript, Tailwind CSS, Three.js, Blender"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,blender&theme=dark"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,blender&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, Three.js, Blender"></picture>
 </p>
 
 <!-- Activity card: rendered every day into cards/activity-*.svg, left out until there are a few months of data.
